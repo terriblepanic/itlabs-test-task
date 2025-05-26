@@ -1,0 +1,6 @@
+action.edit: 'Редактировать'
+action.delete: 'Удалить'
+action.save: 'Сохранить'
+action.cancel: 'Отмена'
+label.empty: 'Пусто'
+label.form.empty_value: 'Выберите значение'
