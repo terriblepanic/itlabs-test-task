@@ -37,7 +37,7 @@ composer install
 
 ### 3. Настроить переменные окружения
 
-Создайте файл `.env.local` и укажите подключение к БД:
+В файле `.env` и укажите подключение к БД:
 
 ```
 DATABASE_URL="mysql://username:password@127.0.0.1:3306/guest_table_api?serverVersion=10.4.32-MariaDB"
